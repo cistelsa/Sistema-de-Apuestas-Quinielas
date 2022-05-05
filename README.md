@@ -9,5 +9,10 @@ Sistema de apuestas quinielas, sencilla, combinada, doble oportunidad en PHP y J
 5. Modificar urls y enlaces de pagos en variables.php
 6. ¡A Disfrutar!
 
-Solo está el Frontend, en algún momento continuaré con el proyecto, esto se creó en el año 2015, se ha actualizado a versiones actuales.
+Por el momento solo está el Frontend, en algún momento continuaré con el proyecto, esto se creó en el año 2015, se ha actualizado a versiones php actuales.
+Inicialmente se creó como app dentro de facebook, pero facebook cambió su plataforma.
+
+Este proyecto fué realizado en modo de autoaprendizaje, se usaron recursos externos a continuación:
+Plantilla HTML5 y CCS3 https://codyhouse.co/gem/bouncy-navigation
+
 
